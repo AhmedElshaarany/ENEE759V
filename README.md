@@ -1,6 +1,6 @@
 ## Synopsis
 
-This repository contains the code for lab and programming assignments for ENEE759 Summer 2015 @ UMD
+This repository contains the code for programming assignments for ENEE759 Summer 2015 @ UMD
 
 ## Motivation
 
