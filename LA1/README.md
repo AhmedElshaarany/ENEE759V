@@ -1,4 +1,5 @@
 Lab Projects
+
 P1:
 
 Do the lab 3a from the MSP430 Workshop. Use the project name: lab_03a_gpio. Archive name: lab_03a_gpio_solution.zip
